@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://t3b08-mp-kb-link.maphoshirts.com/sitemap.xml
+Sitemap: https://sinjeong-club-note.best-samseong-hotplace.xyz/sitemap.xml
