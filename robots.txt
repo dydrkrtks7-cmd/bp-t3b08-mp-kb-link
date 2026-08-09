@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinjeong-club-note.best-samseong-hotplace.xyz/sitemap.xml
+Sitemap: https://sinjeong-club-note.best-samseong-hotplace.xyz/sitemap-pages.xml
